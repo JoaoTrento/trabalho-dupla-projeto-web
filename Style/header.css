@@ -3,9 +3,8 @@ header {
   align-items: center;
   justify-content: space-between;
   padding: 10px;
-  border: 2px solid rgb(255, 0, 0);
   height: 120px;
-  background-color: rgb(157, 163, 211);
+  background-color: rgb(19, 27, 44);
 }
 
 .logo-area {
